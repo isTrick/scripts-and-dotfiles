@@ -52,6 +52,7 @@
   services.gnome.core-utilities.enable = false;
   services.gnome.sushi.enable = true;
   environment.gnome.excludePackages = [ pkgs.gnome-tour ];
+  qt.platformTheme = "gnome";
 
   services.xserver.videoDrivers = [ "nvidia" ];
   hardware.nvidia.open = true;

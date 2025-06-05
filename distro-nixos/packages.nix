@@ -9,18 +9,22 @@
     brave
     bitwarden-desktop
     ente-auth
-    ticktick
     onlyoffice-bin
     qbittorrent
     discord
     zapzap
+    zoom-us
 
     vscode
     code-cursor
+    zed-editor
+    postman
+    bruno
     insomnia
     beekeeper-studio
     warp-terminal
     termius
+    figma-linux
 
     gnome-weather
     gnome-clocks
@@ -48,6 +52,7 @@
     devtoolbox
     apostrophe
     blackbox-terminal
+    junction
 
     audacity
     kdenlive
@@ -56,11 +61,13 @@
     losslesscut-bin
     parabolic
     openshot-qt
+    davinci-resolve
 
     krita
     gthumb
     upscayl
     switcheroo
+    ffmpeg
 
     easyeffects
     cavalier
@@ -70,6 +77,7 @@
     wine
     bottles
     quickemu
+    quickgui
 
     nerdfonts
     sassc
@@ -81,6 +89,8 @@
     colloid-gtk-theme
     colloid-icon-theme
     bibata-cursors-translucent
+    qgnomeplatform-qt6
+    qgnomeplatform
 
     gnomeExtensions.dash-to-dock
     gnomeExtensions.clipboard-indicator
@@ -95,6 +105,7 @@
 
     nodejs_22
     pnpm
+    yarn
     nest-cli
 
     python314
