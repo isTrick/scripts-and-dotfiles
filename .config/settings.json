@@ -1,8 +1,9 @@
 {
     "workbench.productIconTheme": "icons-carbon",
     "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Moegi Dark",
     "editor.fontFamily": "JetBrainsMono Nerd Font, GeistMono Nerd Font",
-    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font, JetBrainsMono Nerd Font",
     "editor.fontLigatures": true,
     "window.commandCenter": false,
     "editor.formatOnSave": true,
